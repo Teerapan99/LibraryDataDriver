@@ -1,6 +1,6 @@
 ***Settings***
 Library           SeleniumLibrary
-Library           DataDriver     TestData.xlsx      sheet_name=Sheet1
+Library           DataDriver     TestData.xlsx
 Resource          Login.robot
 Suite Setup        Open my Browser
 Suite Teardown     Close Browser
